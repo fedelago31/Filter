@@ -1,0 +1,7 @@
+$ ./filter [filtercode] [sourcefile.bmp] [outfile.bmp]
+
+Filters:
+-g = "Grayscale"
+-b = "Blur"
+-s = "Sepia"
+-r = "Reflect"
